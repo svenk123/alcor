@@ -1,7 +1,7 @@
 
 # Hardware
 
-![](/images/Alcor3_Enclosure.jpg)
+![](/images/Alcor3_Enclosure_small.jpg)
 
 ## Bill of material
 
