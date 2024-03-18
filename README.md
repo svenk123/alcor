@@ -26,7 +26,7 @@
 | Jumper for X3 | 1 | Jumper, black, RM 2.54 | JUMPER 2,54 SW | https://www.reichelt.de/kurzschlussbruecke-schwarz-rm-2-54-jumper-2-54-sw-p9017.html |
 | X4 | 1 | Terminal — 3-pin, pitch 5.08 mm, 90° | LAKL 1,5 3 5,08 | https://www.reichelt.de/anschlussklemme-3-pol-rm-5-08-mm-90--lakl-1-5-3-5-08-p169872.html |
 | X6 | 1 | Jack socket, 3.5 mm, PCB with switch contact | EBS 35 | https://www.reichelt.de/klinkeneinbaubuchse-3-5-mm-stereo-ebs-35-p7301.html |
-| --- | --- | --- | --- | --- |
+
 
 # Firmware
 
