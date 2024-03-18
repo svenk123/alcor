@@ -6,7 +6,6 @@
 | Part | Qty | Description | order number | Link |
 | --- | --- | --- | --- | --- |
 | _1 | 1 | Teensy 2.0 Development Board | Teensy 2.0 | https://www.pjrc.com/store/teensy.html |
-| --- | --- | --- | --- | --- |
 | Sockets for _1 | 2 | Sockets 2.54 mm, 1X16, straight | MPE 094-1-016 | https://www.reichelt.de/buchsenleisten-2-54-mm-1x16-gerade-mpe-094-1-016-p119919.html |
 | --- | --- | --- | --- | --- |
 | Sockets for _1 | 1 | Sockets 2.54 mm, 1X5, straight | MPE 094-1-005 | https://www.reichelt.de/buchsenleisten-2-54-mm-1x05-gerade-mpe-094-1-005-p119914.html |
