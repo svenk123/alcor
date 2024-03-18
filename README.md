@@ -1,6 +1,8 @@
 
 # Hardware
 
+![](/images/Alcor3_Enclosure.jpg)
+
 ## Bill of material
 
 | Part | Qty | Description | order number | Link |
