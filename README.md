@@ -13,7 +13,7 @@
 | D1 | 1 | Switching diode, 100 V, 150 mA, DO-35 | 1N4148 | https://www.reichelt.de/schalt-diode-100-v-150-ma-do-35-1n-4148-p1730.html |
 | D3 | 1 | Schottky diode, DO41, 20 V, 1 A | 1N5817 | https://www.reichelt.de/schottkydiode-20-v-1-a-do-41-1n-5817-p41848.html |
 | IC1 | 1 | SN754410 Half-Bridge-Driver IC | 296-9911-5-ND | https://www.digikey.de/de/products/detail/texas-instruments/SN754410NE/380180 |
-| Socket for IC1| IC socket, 16-pin, double spring contact | GS 16 | https://www.reichelt.de/ic-sockel-16-polig-doppelter-federkontakt-gs-16-p8208.html |
+| Socket for IC1 | 1 | IC socket, 16-pin, double spring contact | GS 16 | https://www.reichelt.de/ic-sockel-16-polig-doppelter-federkontakt-gs-16-p8208.html |
 | IC2 | 1 | Recom Power Regulator R-78E5.0-1.0 | 945-2201-ND | https://www.digikey.de/de/products/detail/recom-power/R-78E5-0-1-0/4930585 |
 | J1 | 1 | RJ11 Jack 6P6C unshielded | RJ11-6L-S | https://www.digikey.de/de/products/detail/te-connectivity-corcom-filters/RJ11-6L-S/142227 |
 | J2 | | | | |
