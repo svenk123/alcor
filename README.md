@@ -33,3 +33,8 @@
 # Firmware
 
 ## Flashing the firmware
+
+# Using the Alcor drive controller
+
+## PHD2 settings
+
