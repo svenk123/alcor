@@ -38,3 +38,5 @@
 
 ## PHD2 settings
 
+![](/images/Alcor3_PHD2_Screenshot1.jpg)
+
