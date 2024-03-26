@@ -3,6 +3,16 @@
 
 ![](/images/Alcor_Drive_Corrector2.JPG)
 
+## Electronic Circuit
+
+You can find the schematic and Gerber files in the pcb/ directory. I have exported the Gerber files so that you can let the board manufacture by JLCPCB ( [https://www.jlcpcb.com](www.jlcpcb.com)).
+
+![](/pcb/alcor3_cpu.png)
+
+This is the final pcb.
+
+![](/images/Alcor_Drive_Corrector4.JPG)
+
 ## Bill of material
 
 | Part | Qty | Description | order number | Link |
@@ -32,7 +42,13 @@
 
 # Firmware
 
+The firmware was written specifically for, and tested with, a Teensy 2.0 microcontroller board. It may work on other boards with an ATmega23u4 microcontroller. 
+
 ## Flashing the firmware
+
+Follow these instructions to flash the firmware.
+[https://www.pjrc.com/teensy/first_use.html](https://www.pjrc.com/teensy/first_use.html)
+[https://www.pjrc.com/teensy/loader.html](https://www.pjrc.com/teensy/loader.html)
 
 # Using the Alcor drive controller
 
