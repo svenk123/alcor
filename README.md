@@ -1,7 +1,7 @@
 
 # Hardware
 
-![](/images/Alcor3_Enclosure_small.jpg)
+![](/images/Alcor_Drive_Corrector2.jpg)
 
 ## Bill of material
 
