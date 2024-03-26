@@ -1,7 +1,7 @@
 
 # Hardware
 
-![](/images/Alcor_Drive_Corrector2.jpg)
+![](/images/Alcor_Drive_Corrector2.JPG)
 
 ## Bill of material
 
