@@ -1,3 +1,9 @@
+The Alcor drive corrector produces a variable frequency 120 V AC output for a telescope's right ascension (RA) drive using synchronous motors.
+And 5V/12V PWM DC output for the declination axis motors. I have designed it for the old Celestron/Meade Fork mounts from the 80s.
+It allows tracking corrections to be made during long-exposure photography.
+
+The Aclor drive corrector can be used with modern guiding software like PHD2, etc. Guiding pulses can be send over the ST-4 input or the USB port. It supports
+the LX200 command protocol set.
 
 # Hardware
 
@@ -5,11 +11,11 @@
 
 ## Electronic Circuit
 
-You can find the schematic and Gerber files in the pcb/ directory. I have exported the Gerber files so that you can let the board manufacture by JLCPCB ( [https://www.jlcpcb.com](www.jlcpcb.com)).
+You can find the schematic and Gerber files in the pcb/ directory. I have exported the Gerber files so that you can let the board manufacture by JLCPCB ( [www.jlcpcb.com](https://www.jlcpcb.com)).
 
 ![](/pcb/alcor3_cpu.png)
 
-This is the final pcb.
+This is the final pcb after soldering all the components. Note to set the Jumper between X3-2 and X3-3 for 5V output voltage for the DEC motor.
 
 ![](/images/Alcor_Drive_Corrector4.JPG)
 
