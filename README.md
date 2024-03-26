@@ -5,6 +5,9 @@ It allows tracking corrections to be made during long-exposure photography.
 The Aclor drive corrector can be used with modern guiding software like PHD2, etc. Guiding pulses can be send over the ST-4 input or the USB port. It supports
 the LX200 command protocol set.
 
+![](/images/Alcor_Drive_Corrector5.JPG) ![](/images/Alcor_Drive_Corrector6.JPG)
+
+
 # Hardware
 
 ![](/images/Alcor_Drive_Corrector2.JPG)
