@@ -50,9 +50,11 @@ This is the final pcb after soldering all the components. Note to set the Jumper
 
 ### Optional Parts ###
 
-Enclosure 120 mm x 84 mm x 44 mm, Model: [Hammond 1457K1202BK](https://www.hammfg.com/electronics/small-case/extruded/1457)
-DEC Motor JMI MOTODEC [JMI MOTODEC](http://www.jimsmobile.com/buy_motodec.htm)
-Celestron 4 Button Hand Controller [Discussion on cloudy nights](https://www.cloudynights.com/topic/888791-what-is-this-4-button-hand-control-from/)
+* Enclosure 120 mm x 84 mm x 44 mm, Model: [Hammond 1457K1202BK](https://www.hammfg.com/electronics/small-case/extruded/1457)
+
+* DEC Motor JMI MOTODEC [JMI MOTODEC](http://www.jimsmobile.com/buy_motodec.htm)
+
+* Celestron 4 Button Hand Controller [Discussion on cloudy nights](https://www.cloudynights.com/topic/888791-what-is-this-4-button-hand-control-from/)
 
 # Firmware
 
