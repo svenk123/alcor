@@ -48,6 +48,11 @@ This is the final pcb after soldering all the components. Note to set the Jumper
 | X4 | 1 | Terminal — 3-pin, pitch 5.08 mm, 90° | LAKL 1,5 3 5,08 | https://www.reichelt.de/anschlussklemme-3-pol-rm-5-08-mm-90--lakl-1-5-3-5-08-p169872.html |
 | X6 | 1 | Jack socket, 3.5 mm, PCB with switch contact | EBS 35 | https://www.reichelt.de/klinkeneinbaubuchse-3-5-mm-stereo-ebs-35-p7301.html |
 
+### Optional Parts ###
+
+Enclosure 120 mm x 84 mm x 44 mm, Model: [Hammond 1457K1202BK](https://www.hammfg.com/electronics/small-case/extruded/1457)
+DEC Motor JMI MOTODEC [JMI MOTODEC](http://www.jimsmobile.com/buy_motodec.htm)
+Celestron 4 Button Hand Controller [Discussion on cloudy nights](https://www.cloudynights.com/topic/888791-what-is-this-4-button-hand-control-from/)
 
 # Firmware
 
