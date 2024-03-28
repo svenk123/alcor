@@ -37,7 +37,7 @@ This is the final pcb after soldering all the components. Note to set the Jumper
 | Socket for IC1 | 1 | IC socket, 16-pin, double spring contact | GS 16 | https://www.reichelt.de/ic-sockel-16-polig-doppelter-federkontakt-gs-16-p8208.html |
 | IC2 | 1 | Recom Power Regulator R-78E5.0-1.0 | 945-2201-ND | https://www.digikey.de/de/products/detail/recom-power/R-78E5-0-1-0/4930585 |
 | J1 | 1 | RJ11 Jack 6P6C unshielded | RJ11-6L-S | https://www.digikey.de/de/products/detail/te-connectivity-corcom-filters/RJ11-6L-S/142227 |
-| J2 | | | | |
+| J2 | 1 | DC-Socket, flat contacts, 2,1mm, 90° | DC BU21 90 | https://www.reichelt.de/de/en/dc-socket-flat-contacts-2-1mm-90--dc-bu21-90-p183502.html |
 | Q1, Q2 | 2 | MOSFET N-Channel 30V 62A TO220AB | IRF3708-ND | https://www.digikey.de/de/products/detail/infineon-technologies/IRF3708/360319 | 
 | Heat sinks for Q1, Q2 | 2 | U-shaped heat sink, 25x17x13mm, 28K/W, elongated hole | V 5074A | https://www.reichelt.de/u-kuehlkoerper-25x17x13mm-28k-w-langloch-v-5074a-p22232.html |
 | R1, R2, R4, R5, R6, R7 | 6 | WCarbon film resistor 1/4W, 5%, 10 kilo-ohms | 1/4W 10K | https://www.reichelt.de/widerstand-kohleschicht-10-kohm-0207-250-mw-5--1-4w-10k-p1338.html |
