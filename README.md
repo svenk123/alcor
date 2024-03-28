@@ -39,7 +39,7 @@ This is the final pcb after soldering all the components. Note to set the Jumper
 | J1 | 1 | RJ11 Jack 6P6C unshielded | RJ11-6L-S | https://www.digikey.de/de/products/detail/te-connectivity-corcom-filters/RJ11-6L-S/142227 |
 | J2 | 1 | DC-Socket, flat contacts, 2,1mm, 90° | DC BU21 90 | https://www.reichelt.de/de/en/dc-socket-flat-contacts-2-1mm-90--dc-bu21-90-p183502.html |
 | Q1, Q2 | 2 | MOSFET N-Channel 30V 62A TO220AB | IRF3708-ND | https://www.digikey.de/de/products/detail/infineon-technologies/IRF3708/360319 | 
-| Heat sinks for Q1, Q2 | 2 | U-shaped heat sink, 25x17x13mm, 28K/W, elongated hole | V 5074A | https://www.reichelt.de/u-kuehlkoerper-25x17x13mm-28k-w-langloch-v-5074a-p22232.html |
+| Heat sinks for Q1, Q2 | 2 | Clip-on heat sink for housing TO-220, 13 K/W | SK 525 15 ST | https://www.reichelt.de/de/en/clip-on-heat-sink-for-housing-to-220-13-k-w-sk-525-15-st-p166465.html |
 | R1, R2, R4, R5, R6, R7 | 6 | WCarbon film resistor 1/4W, 5%, 10 kilo-ohms | 1/4W 10K | https://www.reichelt.de/widerstand-kohleschicht-10-kohm-0207-250-mw-5--1-4w-10k-p1338.html |
 | R3 | 1 | Varistor, RM 5 mm, 0.25 W, 130 VAC = JVR7N201K | VDR-0,25 130 | https://www.reichelt.de/varistor-rm-5mm-0-25w-130vac-vdr-0-25-130-p22308.html |
 | TR1 | 1 | Transformer 6 VA, 2 x 6 V, 2 x 500 mA | UI 30/10,5 206 | https://www.reichelt.de/trafo-6va-2x-6v-2x-500ma-ui-30-10-5-206-p27546.html |
